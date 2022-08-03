@@ -1,0 +1,16 @@
+{
+    "name": "vmsdk/vmsdk",
+    "description": "Using Rest Api vmmanager for servers",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vmsdk\\Vmsdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MHezu"
+        }
+    ],
+    "require": {}
+}
